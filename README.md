@@ -77,6 +77,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  
 # Other Things :
 
+</br>
+
 <details>
 <summary>:tv: List Favorites Anime</summary>
 
