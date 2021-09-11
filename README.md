@@ -76,7 +76,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </details>
 
 <details>
-<summary>:girl: List Favorites Characters</summary> 
+<summary>:boy: List Favorites Characters</summary> 
 
 * [Escanor](https://nanatsu-no-taizai.fandom.com/wiki/Escanor)
 
