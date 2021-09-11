@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheOneFMS" alt="TheOneFMS" /></p>
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>, I'm Filipe</h1>
-<p align="center"><b>A guy who loves programming</b></p>
+<p align="center"><b>A passionate developer from Portugal</b></p>
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/TheOneFMS/TheOneFMS/blob/main/assets/1.gif">
