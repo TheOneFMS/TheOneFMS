@@ -66,6 +66,21 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
  </p>
  
+# Other Things :
+
+<details>
+<summary>:tv: List Favorites Anime</summary>
+
+* [Nanatsu no Taizai](https://anilist.co/anime/20789/)
+  
+</details>
+
+<details>
+<summary>:girl: List Favorites Characters</summary> 
+
+* [Escanor](https://nanatsu-no-taizai.fandom.com/wiki/Escanor)
+
+</details>
 
 </br>
 </br>
