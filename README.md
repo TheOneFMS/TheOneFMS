@@ -64,6 +64,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://steamcommunity.com/id/FMS-Azores/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/TheOneFMS/TheOneFMS/blob/main/assets/icons/steam.png" />
 </a>
+</br>
+
+<a href="https://www.buymeacoffee.com/theonefms" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
  </p>
  
 </br>
