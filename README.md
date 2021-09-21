@@ -2,9 +2,6 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>, I'm Filipe</h1>
 <p align="center"><b>A guy who likes technology</b></p>
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/TheOneFMS/TheOneFMS/blob/main/assets/1.gif">
-</div>
 
 </br>
 </br>
@@ -13,7 +10,6 @@
 
 # About ME 💬 :
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/TheOneFMS/TheOneFMS/blob/main/assets/2.gif">
 
 </br>
 </br>
@@ -53,7 +49,6 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/TheOneFMS/TheOneFMS/blob/main/assets/3.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
