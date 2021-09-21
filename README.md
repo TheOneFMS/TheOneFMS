@@ -70,29 +70,6 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
  </p>
  
 </br>
- 
-# Other Things :
-
-</br>
-
-<details>
-<summary>:tv: List Favorites Anime</summary>
-
-* [Nanatsu no Taizai](https://anilist.co/anime/20789/)
-  
-</details>
-
-<details>
-<summary>:boy: List Favorites Characters</summary> 
-
-* [Escanor](https://nanatsu-no-taizai.fandom.com/wiki/Escanor)
-
-</details>
-
-</br>
-</br>
-</br>
-</br>
 
 
 <p align="center" >  
