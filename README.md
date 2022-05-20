@@ -33,9 +33,8 @@
 
 <!-- More Icons  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/TheOneFMS/TheOneFMS/blob/main/assets/icons/unity@2x.png" alt="unity" width="100" hight="50">
-<img src="https://github.com/TheOneFMS/TheOneFMS/blob/main/assets/icons/js@2x.png" alt="javascript"  width="135" hight="50">
 </br>
-<img src="https://github.com/TheOneFMS/TheOneFMS/blob/main/assets/icons/C%23.png" alt="c_sharp" width="100" hight="50">
+<img src="https://github.com/TheOneFMS/TheOneFMS/blob/main/assets/icons/C%23.png" alt="c_sharp" width="50" hight="50">
 </br>
 
 </p>
